@@ -1,5 +1,5 @@
 # Payroll_Managementsystem
-Certainly! A C++ payroll management system is a software application that helps organizations manage their employee compensation and related tasks. It allows businesses to streamline the process of calculating and distributing employee wages, while also ensuring accurate tax deductions and other payroll-related tasks.
+Payroll management system is a software application that helps organizations manage their employee compensation and related tasks. It allows businesses to streamline the process of calculating and distributing employee wages, while also ensuring accurate tax deductions and other payroll-related tasks.
 
 The C++ programming language provides a robust and flexible framework for implementing payroll management systems. Here's a brief overview of how a C++ payroll management system might work:
 
